@@ -1,3 +1,10 @@
-Download tesseract and install it. Choose according to your system compatibility.
+Photext is an Educational Program Design for students. (But can also be use for business and organizations since this is an open source)
 
-https://github.com/UB-Mannheim/tesseract/wiki
+
+
+Download and Install pytesseract. Choose the compatibility of your system (64x / 32x)
+  https://github.com/UB-Mannheim/tesseract/wiki
+
+Download Photext
+
+
